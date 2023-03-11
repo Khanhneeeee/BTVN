@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526891234488",
+    "project_id": "uda-hankhpeoo",
+    "storage_bucket": "uda-hankhpeoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526891234488:android:0fb47b8228ed0ff69af04d",
+        "android_client_info": {
+          "package_name": "com.example.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526891234488-es8efbi9j67ouu7oim6t1raf425fgslk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi5Gy250T0Mh9RT4MABWHLOGG9X1gyL2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526891234488-es8efbi9j67ouu7oim6t1raf425fgslk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
